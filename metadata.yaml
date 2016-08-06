@@ -1,0 +1,28 @@
+_repo: Wolves-of-the-Sea--13-Being-a-Tale-of-the-Colonies-from-the-Manuscript-of-One-Geoffry-Carlyle__10210
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parrish, Randall
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '2217'
+    url: http://www.gutenberg.org/2009/agents/2217
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcc 'PS'
+- !lcsh 'Pirates -- Fiction'
+- GITenberg
+title: "Wolves of the Sea\r\nBeing a Tale of the Colonies from the Manuscript of One\
+  \ Geoffry Carlyle, Seaman, Narrating Certain Strange Adventures Which Befell Him\
+  \ Aboard the Pirate Craft \"Namur\""
+url: http://www.gutenberg.org/ebooks/10210
