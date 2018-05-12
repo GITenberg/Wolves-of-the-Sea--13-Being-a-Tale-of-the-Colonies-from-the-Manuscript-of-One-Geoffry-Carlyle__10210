@@ -1,5 +1,8 @@
 _repo: Wolves-of-the-Sea--13-Being-a-Tale-of-the-Colonies-from-the-Manuscript-of-One-Geoffry-Carlyle__10210
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Parrish, Randall
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2217'
     url: http://www.gutenberg.org/2009/agents/2217
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10210#Wolves-of-the-Sea--13-Being-a-Tale-of-the-Colonies-from-the-Manuscript-of-One-Geoffry-Carlyle_
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
